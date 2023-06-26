@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Roboto:wght@300;400&display=swap');
+
+.carouselImage {
+    width: 90vh; 
+    height: 90vh; 
+    object-fit: cover; 
+  }
+
+  .carouselImage2 {
+    width: 90vh; 
+    height: 90vh; 
+    object-fit: cover; 
+  }
+
+  .carouselImage3 {
+    width: 90vh; 
+    height: 90vh; 
+    object-fit: cover; 
+  }
+
+  .carouselImage4 {
+    width: 90vh; 
+    height: 90vh; 
+    object-fit: cover; 
+  }
+
+  .carouselImage5 {
+    width: 90vh; 
+    height: 90vh; 
+    object-fit: cover; 
+  }
+
